@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(bgimage.jpg);
+    background-size: cover;
+}
+header{
+    background-color: black;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+h1{
+    padding-top: 30px;
+    letter-spacing: 1em;
+}
+#listdiv{
+    text-align: center;
+}
+#listdiv label{
+    font-size: 30px;
+    padding: 20px;
+
+}
+
+#deptSelect{
+    margin-top: 2%;
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    text-decoration: none;
+}
+table{
+    width: 1000px;
+    border-collapse: collapse;
+    background-color: rgba(201, 202, 198, 0.527);
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+th
+{
+    text-transform: uppercase;
+    background-color: white;
+    color: rgb(73, 74, 77);
+}
+tr:hover {
+    background-color: black;
+    color: white;
+}
+th, td{
+    padding: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+
+
+  
+  
+  
